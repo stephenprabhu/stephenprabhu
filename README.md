@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephenprabhu
 - 👀 I’m interested in Web Developement, Android Development
-- 🌱 I’m currently learning Node.JS, Laravel and React Native
+- 🌱 I’m currently learning Node.JS, Laravel and Django
 - 📫 How to reach me:
 
 <div style="margin-left:200px">
