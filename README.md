@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @stephenprabhu
 - 👀 I’m interested in Web Developement, Android Development
 - 🌱 I’m currently learning Node.JS, Laravel and Django
-- 📫 How to reach me:
+
+<h5>📫 How to reach me:</h5>
 
 <div style="margin-left:200px">
 <a href="https://www.facebook.com/stephen.machado.31/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" /></a>
