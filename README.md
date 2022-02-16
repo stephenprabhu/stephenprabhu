@@ -22,4 +22,23 @@
  <a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.adobe.com/products/xd.html" rel="nofollow"> <img src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667" alt="xd" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="max-width: 100%;"> </a>
  <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;"> </a> 
+ 
+ 
+ <br />
+<br />
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+ ![Melroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenprabhu&count_private=true&show_icons=true&theme=tokyonight)
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenprabhu)](https://github.com/stephenprabhu/github-readme-stats)
+
+ </details>
 
