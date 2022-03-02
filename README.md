@@ -3,15 +3,11 @@
 - 🌱 I’m currently learning React, Node.JS, and Laravel.
 
 <h5>My Skills</h5>
-<img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/react.png"/> 
-<img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/> 
-<img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+'
 
-
-
-
- 
  
  <br />
 <br />
