@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, Node.JS, and Laravel.
 
 <h5>Languages And Tools </h5>
-<table style="text-align:center">
+<table align="center">
 <tr>
  <td>
   <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> <h5 style="margin:0">HTML</h5>
