@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @stephenprabhu
-- 👀 I’m interested in Web Developement and Machine Learning
+- 🤯 I’m interested in Web Developement and Machine Learning
 - 🌱 I’m currently learning React, Node.JS, and Laravel.
+- 🌐 Find more about me here: <a href="https://stephenprabhu.com/">Website</a>
 
-<h5>My Skills</h5>
+<h3>Connect With Me</h3>
+<img  align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+
+ <br />
+<br />
+<h3>My Skills</h3>
+<img  align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img  align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Laravel" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img   align="left" alt="PHP" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -12,11 +19,18 @@
 <img align="left" alt="MySQL" width="36px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="36px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="CSS" width="36px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img align="left" alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="left" alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+<img  align="left" alt="CSS" width="36px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+
 
  
  <br />
 <br />
 
+ <br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
